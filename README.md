@@ -1,6 +1,8 @@
 # datasets-websites
 
-### [Government Data](https://www.data.gov/)
+### [U.S. Government’s Open Data](https://www.data.gov/)
+### [Twitter REST API](https://dev.twitter.com/rest/public)
+### [BestBuy API](https://developer.bestbuy.com/apis)
 ### [UCI ML](http://archive.ics.uci.edu/ml/datasets.html)
 ### [UCI Network Da](http://networkdata.ics.uci.edu/resources)
 ### [bigml1](https://blog.bigml.com/2013/02/28/data-data-data-thousands-of-public-data-sources/)
